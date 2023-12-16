@@ -26,4 +26,5 @@ public class UserDto {
     @Size(min = 3, max = 50)
     private String nickname;
 
+
 }
